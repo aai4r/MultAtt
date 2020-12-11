@@ -36,9 +36,9 @@
     for the failed images
     
 ## Training & Evaluation
-  ### CMU-MOSI
+  ### Multimodal Sentiment Analysis
     run ./CMU-MOSI/train_transformer.py
     
-  ### CAER-S
+  ### Context-aware Emotion Recognition
     run ./CAER/train.py
     

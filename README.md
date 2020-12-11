@@ -6,13 +6,12 @@
 <img width="270" src="https://user-images.githubusercontent.com/59352765/101871283-a6076d00-3bc6-11eb-93a0-e7c6cfe190c4.png">
 <img width="550" src="https://user-images.githubusercontent.com/59352765/101871317-b3bcf280-3bc6-11eb-9734-62a7cf69cf85.png">
   
-**Multimodal Sentiment Analysis**
+ - Pytorch implementation of MultAtt module for Multimodal Sentiment Analysis and Context-aware Emotion Recognition
+ - Available datasets
+ 
+    - Multimodal Sentiment Analysis: CMU-MOSI
   
-  Dataset: CMU-MOSI
-  
-**Context-aware Emotion Recognition**
-  
-  Dataset: CAER-S
+    - Context-aware Emotion Recognition: CAER-S
 
 ## Dataset Download
   - CMU-MOSI: https://drive.google.com/file/d/16XtyD9kNwJlyimVSWJdDNTPpyQn_amOV/view?usp=sharing

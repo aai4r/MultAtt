@@ -2,6 +2,12 @@
 
 ## Multimodal Attention (MultAtt) Module
 
+<div>
+<img width="300" src="https://user-images.githubusercontent.com/59352765/101871283-a6076d00-3bc6-11eb-93a0-e7c6cfe190c4.png">
+<img width="600" src="https://user-images.githubusercontent.com/59352765/101871317-b3bcf280-3bc6-11eb-9734-62a7cf69cf85.png">
+  
+
+
 
 ## Dataset Download
   - CMU-MOSI: https://drive.google.com/file/d/16XtyD9kNwJlyimVSWJdDNTPpyQn_amOV/view?usp=sharing
